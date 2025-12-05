@@ -1,12 +1,12 @@
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/1313518532889415743/1390952643853291682/wmremove-transformed-modified.png?ex=686cc418&is=686b7298&hm=cc68e7d67153827b9da9f474894a43f9c1048185245e7e341b67b3bb417af1fe&" alt="PowerPort Logo">
+    <img src="https://ibb.co/G3FCQrj8"><img src="https://i.ibb.co/5x2shJVS/crafthostlogo.jpg" alt="CraftHost Logo">
 </p>
-<h2> PowerPort is an open-source panel for managing your game servers, applications, and more built with modern technologies such as Node.js, Docker, and Express - made to work with our PowerPort Daemon software.</h2>
+<h2> CraftHost-ը բաց կոդով վահանակ է ձեր խաղային սերվերները, ծրագրերը և այլն կառավարելու համար, որը կառուցված է ժամանակակից... տեխնոլոգիաներ, ինչպիսիք են Node.js, Docker, և Express - նախատեսված մեր CraftHost Daemon-ի հետ աշխատելու համարon software.</h2>
 
 ## Installation
 ### Picking a Server OS
 
-PowerPort runs on various operating systems, so pick whichever you are most comfortable using.
+CraftHost runs on various operating systems, so pick whichever you are most comfortable using.
 
 | Operating System | Version |     Supported      | Notes                                                       |
 |------------------|---------|:------------------:|-------------------------------------------------------------|
